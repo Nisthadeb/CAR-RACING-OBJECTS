@@ -1,1 +1,2 @@
-# CAR-RACING-OBJECTS
+# synchronousBallMovement
+Ball moving synchronously
